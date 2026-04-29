@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in South Dakota, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `757444` |
 | Location | South Dakota |
 | Category | Restaurants |
-| Full dataset size | 122 records |
-| Free sample size | 12 records (9.84%) |
-| Last export | 2026-04-22T08:16:24.353067+00:00 |
+| Full dataset size | 105 records |
+| Free sample size | 10 records (9.52%) |
+| Last export | 2026-04-29T09:58:49.944066+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-south-dakota-us-sample-757444/releases/download/sample-latest/beamstation_757444_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
