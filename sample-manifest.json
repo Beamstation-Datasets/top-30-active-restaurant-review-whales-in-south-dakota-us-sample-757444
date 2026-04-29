@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5ead0ac7-e217-4851-8396-32688908db95",
+  "export_job_id": "db480c7f-53a2-467a-9ae1-3bdcb1b019d0",
   "id_short": 757444,
-  "published_at": "2026-04-23T07:08:30Z",
+  "published_at": "2026-04-29T19:35:20Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-south-dakota-us-sample-757444",
   "sample_asset_name": "beamstation_757444_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/757444/beamstation_757444_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "7030eeeb532ab77867661f2e764a8908106d9a5f9983dc4f6a349b6042728983",
-  "sample_size_bytes": 60341,
-  "total_records": 122
+  "sample_records": 10,
+  "sample_sha256": "578915145135493002f203140984f240f6241ac6cc94161ce794a6a9c86ddb5c",
+  "sample_size_bytes": 56298,
+  "total_records": 105
 }
